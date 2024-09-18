@@ -1,4 +1,8 @@
 
+img {
+    width: 120px;
+    height: 120px;
+}
 
 .cat {
     border: 5px solid #66ff00bb;
@@ -9,7 +13,7 @@
     display: flex;
     height: 97vh;
     justify-content: flex-end;
-    align-items: center;
+
 }
 
 .circle {
