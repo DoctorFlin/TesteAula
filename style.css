@@ -1,0 +1,22 @@
+.horse {
+    border: 5px solid #ee0000bb;
+}
+
+.cat {
+    border: 5px solid #001affbb;
+}
+
+.camel {
+    border: 5px solid #ffc400bb;
+}
+
+.animais {
+    display: flex;
+    height: 97vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    border-radius: 50%;
+}
