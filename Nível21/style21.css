@@ -1,0 +1,24 @@
+
+img {
+    width: 120px;
+    height: 120px;
+}
+
+.cat {
+    border: 5px solid #66ff00bb;
+    
+    
+}
+
+
+.animais {
+    display: flex;
+    height: 97vh;
+    flex-wrap: wrap;
+    align-content: flex-start;
+
+}
+
+.circle {
+    border-radius: 50%;
+}
